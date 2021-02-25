@@ -79,4 +79,4 @@ def my_own():
     save_ppm_ascii(s, 'ascii.ppm')
     save_extension(s, 'img.png')
 
-my_own()
+#my_own()
